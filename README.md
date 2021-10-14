@@ -1,1 +1,1 @@
-# Tech-Learning-Stack
+# TypeScript
